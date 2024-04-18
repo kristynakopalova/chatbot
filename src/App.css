@@ -69,3 +69,9 @@
 .message-send:disabled {
   background-color: gray;
 }
+
+@media screen and (max-width: 800px) {
+  input {
+    font-size: 16px !important;
+  }
+}
